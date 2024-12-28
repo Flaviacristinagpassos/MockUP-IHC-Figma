@@ -6,6 +6,8 @@ No meu caso o problema foi encontrar no mapa da universidade lugares com pouca i
 
 ![image](https://github.com/user-attachments/assets/bcbd77f3-4281-40e2-a15a-80b2fa464f07)
 
+![image](https://github.com/user-attachments/assets/68b9412d-e6e9-4f7b-83e0-b03075e62f0a)
+
 ![image](https://github.com/user-attachments/assets/780b2093-12c4-40eb-a8bd-e9c806117fe2)
 
 ![image](https://github.com/user-attachments/assets/6069d011-0daa-4de1-a9e4-f5a223a6dce8)
